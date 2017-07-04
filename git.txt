@@ -1,0 +1,3 @@
+add - 	add all the changes we made to the project
+commit- take a snapshot of the sys. state at that point of time. This can be used to later come back to a certain version.We also add messages to  the commit inorder to correctly identify the changes
+log    -    Show commit logs
