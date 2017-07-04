@@ -5,3 +5,8 @@ log    -    Show commit logs
 working area- local copy
 staging area- ready to commit,when "add" is done
 repository- when commit is done
+
+What are Insertions & Deletions in Git?
+eg. 2 files changed, 3 insertions(+), 11 deletions(-)
+A. It is just number of lines inserted and number of lines deleted in that particular commit. Note that a modified line maybe treated as an insert and a delete.
+
