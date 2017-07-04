@@ -1,16 +1,1 @@
-add - 		add all the changes we made to the project,ie add the modified files to the staging area
-commit- 	take a snapshot of the sys. state at that point of time. This can be used to later come back to a certain version.We also add messages to  the commit inorder to correctly identify the changes
-log    -    Show commit logs
-checkout   Switch branches or restore working tree files;gets the repository state to the working area for the specified file
-
-working area- local copy
-staging area- ready to commit,when "add" is done
-repository- when commit is done
-
-What are Insertions & Deletions in Git?
-eg. 2 files changed, 3 insertions(+), 11 deletions(-)
-A. It is just number of lines inserted and number of lines deleted in that particular commit. Note that a modified line maybe treated as an insert and a delete.
-
-why does git have a staging area?
-why not directly commit?
-why first add,then commit
+mere sapno ki rani kab ayegi tu?
