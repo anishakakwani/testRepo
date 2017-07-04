@@ -10,3 +10,6 @@ What are Insertions & Deletions in Git?
 eg. 2 files changed, 3 insertions(+), 11 deletions(-)
 A. It is just number of lines inserted and number of lines deleted in that particular commit. Note that a modified line maybe treated as an insert and a delete.
 
+why does git have a staging area?
+why not directly commit?
+why first add,then commit
